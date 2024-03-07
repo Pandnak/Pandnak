@@ -3,7 +3,7 @@ Hello Everyone!
 My name is Andrew Pervunetskikh and I am the 4th year MIPT student.
 
 ## My contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pandak2002)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pandak1st)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/pandak2002)
 
 
