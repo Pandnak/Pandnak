@@ -1,4 +1,4 @@
-Hello, everyone!
+Hello Everyone!
 
 My name is Andrew Pervunetskikh and I am the 4th year MIPT student.
 
