@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Pandnak
-- 👀 I’m interested in math and research with progamming
-- 🌱 I’m currently learning Python and Machine learning
-- Maybe {💞️ I’m looking to collaborate on ...}
-- 📫 How to reach me in tg: @Pandak1st
+Hello, everyone!
 
-<!---
-Pandnak/Pandnak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Andrew Pervunetskikh and I am the 4th year MIPT student.
+
+## My contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pandak2002)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/pandak2002)
+
+
+### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=#F0E68C)
+![Git](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Git&logoColor=#F0E68C)
+![PyTorch](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=PyTorch&logoColor=#F0E68C)
+![Numpy](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=NumPy&logoColor=#F0E68C)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
