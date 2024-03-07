@@ -8,8 +8,8 @@ My name is Andrew Pervunetskikh and I am the 4th year MIPT student.
 
 
 ### Languages and Tools:
-![Python](https://img.shields.io/badge/blue-Python-090909?style=for-the-badge&logo=Python&logoColor=#F0E68C)
-![Git](https://img.shields.io/badge/blue-Git-090909?style=for-the-badge&logo=Git&logoColor=#F0E68C)
-![PyTorch](https://img.shields.io/badge/blue-PyTorch-090909?style=for-the-badge&logo=PyTorch&logoColor=#F0E68C)
-![Numpy](https://img.shields.io/badge/blue-NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=#F0E68C)
-![C++](https://img.shields.io/badge/blue-C-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=#F0E68C)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F0E68C)
+![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch&logoColor=#F0E68C)
+![Numpy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=#F0E68C)
+![C++](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
