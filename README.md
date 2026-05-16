@@ -1,6 +1,6 @@
 Hello Everyone!
 
-My name is Andrew Pervunetskikh and I am the 4th year MIPT student.
+My name is Andrey Pervunetskikh and I am the 2nd year MIPT master student.
 
 ## My contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pandak1st)
